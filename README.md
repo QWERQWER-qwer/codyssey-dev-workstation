@@ -345,7 +345,7 @@ user.email=***마스킹***
 init.defaultbranch=main
 ```
 
-![git config --list (이메일 마스킹)](docs/img/git-config.png)
+![git config --list (이메일 마스킹)](docs/img/git-config-masked.png)
 *로컬 Git 신원·기본 브랜치(main) 설정 결과.*
 
 VSCode를 **WSL 원격 모드**(`WSL: Ubuntu`)로 열어 레포를 연동했다.
